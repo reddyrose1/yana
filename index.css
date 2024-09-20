@@ -228,10 +228,11 @@
 .h21{
     color: white;
     font-size: medium;
-    margin: 20px 20px 20px 20px;
+    margin: 18px 18px 18px 18px;
     word-spacing: 10px;
 }
 .div1{
     display: flex;
     justify-content: space-between;
 }
+  
